@@ -1,0 +1,39 @@
+body {
+    padding:0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    margin: 10px;
+    
+}
+
+.content {
+    margin: 0 auto;
+}
+
+h1 {
+    padding: 20px, 0;
+    margin: 0;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(116, 111, 111);
+}
+
+#box1 {
+    margin: 0;
+    width: 69%;
+}
+
+#box2 {
+    margin: 0;
+    width: 29%;
+}
+
+
+a {
+    color:red;
+}
